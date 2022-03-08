@@ -1,0 +1,12 @@
+#content {
+  margin: 20px 30px;
+  background-color: antiquewhite;
+}
+
+#selectedText {
+  color: red;
+}
+
+label{
+    margin-right: 30px;
+}
